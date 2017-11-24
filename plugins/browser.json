@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.roger.www"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.roger.www"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.roger.www"
+    }
+  },
+  "dependent_plugins": {}
+}
